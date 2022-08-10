@@ -1,0 +1,13 @@
+Objects and its internal representation in Javascript
+In javascript object has properties and type.
+Eg:
+A car has a colour,model etc..
+Similarly,object have properties which define their characteristics
+________________________________________
+Creating Objects in JavaScript:
+ var person={fname:"A",lname:"a",age:19};
+Property and value is separated by colon(:) and each pair is separated by comma(,)
+_________________________________________
+Accessing objects:
+objectname.property  =>Eg:person.fname
+
